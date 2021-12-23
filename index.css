@@ -1,0 +1,26 @@
+.logo{
+    background-color: black;
+    text-align: center;
+}
+.wrapper {
+	width: 1170px;
+	margin: 0 auto;
+}
+.carousel-inner{
+    height: 300px;
+}
+@media (max-width: 900px) {
+    .my-navigation-container nav {
+        width: 90%;
+    }
+}
+body {
+    background-color: black;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+
+.my header {
+    text-align: center;
+}
